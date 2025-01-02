@@ -28,6 +28,6 @@ Iâ€™ll guide you through the process of creating bots, interacting with Redditâ€
 
 ## Preview  
 
-![Reddit Logo](https://www.redditinc.com/assets/images/site/reddit-logo.png)  
+![Reddit Logo](static/Reddit.png)  
 
 
